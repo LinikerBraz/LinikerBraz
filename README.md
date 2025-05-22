@@ -25,7 +25,7 @@ Sou apaixonado por programação e determinado a me tornar um **desenvolvedor fu
 ## 🔗 **Meus Contatos**  
 
 📧 Email: linikerbraz32@gmail.com  
-🔗 LinkedIn: [Luiz Liniker](https://www.linkedin.com/in/luiz-liniker-995800301/))  
+🔗 LinkedIn: [Luiz Liniker](https://www.linkedin.com/in/luiz-liniker-995800301/)  
  
 
 ---

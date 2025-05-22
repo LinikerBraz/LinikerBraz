@@ -1,16 +1,33 @@
-## Hi there 👋
+# 💻 Luiz | Desenvolvedor Fullstack em formação  
 
-<!--
-**LinikerBraz/LinikerBraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por programação e determinado a me tornar um **desenvolvedor fullstack**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e tenho conhecimento em **HTML, CSS e Bootstrap**. Estou sempre buscando evoluir minhas habilidades para criar soluções eficientes e inovadoras.  
 
-Here are some ideas to get you started:
+🔹 Meu objetivo é dominar tecnologias **front-end e back-end** para desenvolver aplicações completas e escaláveis!  
+🔹 Sempre buscando aprender e compartilhar conhecimento com a comunidade.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 **Minhas Estatísticas**  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=blue-black&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=blue-black&hide_border=true" />
+</p>
+
+---
+
+## 🚀 **Linguagens que utilizo nos meus projetos**  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=blue-black&hide_border=true)
+
+---
+
+## 🔗 **Meus Contatos**  
+
+📧 Email: linikerbraz32@gmail.com  
+🔗 LinkedIn: [Luiz Liniker](https://www.linkedin.com/in/luiz-liniker-995800301/))  
+ 
+
+---
+
+💙 **Obrigado por visitar meu perfil!** Se gostou, deixe uma ⭐ no meu repositório. 😃🔥  

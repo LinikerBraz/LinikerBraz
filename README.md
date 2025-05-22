@@ -10,15 +10,15 @@ Sou apaixonado por programação e determinado a me tornar um **desenvolvedor fu
 ## 📊 **Minhas Estatísticas**  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=blue-black&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=blue-black&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LinikerBraz&show_icons=true&theme=blue-black&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinikerBraz&layout=compact&theme=blue-black&hide_border=true" />
 </p>
 
 ---
 
 ## 🚀 **Linguagens que utilizo nos meus projetos**  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=blue-black&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinikerBraz&layout=compact&theme=blue-black&hide_border=true)
 
 ---
 

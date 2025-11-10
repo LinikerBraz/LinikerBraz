@@ -1,6 +1,6 @@
 # 💻 Luiz | Desenvolvedor Fullstack em formação  
 
-Sou apaixonado por programação e determinado a me tornar um **desenvolvedor fullstack**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e tenho conhecimento em **HTML, CSS e Bootstrap**. Estou sempre buscando evoluir minhas habilidades para criar soluções eficientes e inovadoras.  
+Sou apaixonado por programação e determinado a me tornar um **desenvolvedor front-end**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e tenho conhecimento em **HTML, CSS e Bootstrap**. Estou sempre buscando evoluir minhas habilidades para criar soluções eficientes e inovadoras.  
 
 🔹 Meu objetivo é dominar tecnologias **front-end e back-end** para desenvolver aplicações completas e escaláveis!  
 🔹 Sempre buscando aprender e compartilhar conhecimento com a comunidade.  
